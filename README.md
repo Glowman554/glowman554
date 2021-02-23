@@ -30,10 +30,17 @@ Hier meine Betriebssysteme:
 - [VaspelOS](https://github.com/Glowman554/VaspelOS)
 - [GOS](https://github.com/Glowman554/gos) / [GKernel](https://github.com/Glowman554/gkernel)
 
+### GitHub stats
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowman554&layout=compact" width="333" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Glowman554&show_icons=true" width="400"/>
+</a>
 
 ### Wer bin ich?
 
 Ich bin janick 15 (bald 16) Jahre alt. Ich bin ein kleiner süßer Fuchs. In Minecraft ist mein Username glowman434.
 
 ![](images/2021-01-24.png)
-![](images/0183762368fa42c4d31a87bcb60fff08.jpg)
