@@ -32,6 +32,8 @@ Hier meine Betriebssysteme:
 
 ### GitHub stats
 
+Fun fact:  ![](https://komarev.com/ghpvc/?username=Glowman554)
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowman554&layout=compact" width="333" />
 </a>
