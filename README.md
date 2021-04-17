@@ -27,7 +27,6 @@ Ich mag die Entwicklung meiner eigenen Betriebssysteme, weil sie einem viel übe
 Hier meine Betriebssysteme:  
 
 - [NextOS](https://github.com/Glowman554/NextOS)
-- [VaspelOS](https://github.com/Glowman554/VaspelOS)
 - [GOS](https://github.com/Glowman554/gos) / [GKernel](https://github.com/Glowman554/gkernel)
 
 ### GitHub stats
