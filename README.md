@@ -42,6 +42,6 @@ Fun fact:  ![](https://komarev.com/ghpvc/?username=Glowman554)
 
 ### Wer bin ich?
 
-Ich bin janick 15 (bald 16) Jahre alt. Ich bin ein kleiner süßer Fuchs. In Minecraft ist mein Username glowman434.
+Ich bin janick 16 Jahre alt. Ich bin ein kleiner süßer Fuchs. In Minecraft ist mein Username glowman434.
 
 ![](images/2021-01-24.png)
