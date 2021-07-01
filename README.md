@@ -1,37 +1,73 @@
-# About me
+# Glowman554
 
-## Meine Lieblingsspiele
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-- Minecraft
-- Spaceflight Simulator
+<br>
 
-## Programmiersprachen
+## Friends
 
-- Java
-- C / C++
-- Python
-- JavaScript
+[![chaosfreak93](https://img.shields.io/badge/-chaosfreak93-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93)
+[![d347h-n3k0](https://img.shields.io/badge/-d347h_n3k0-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/d347h-n3k0)
+[![ImDaBigBoss](https://img.shields.io/badge/-ImDaBigBoss-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/ImDaBigBoss)
 
-## Ein paar Infos über mich
+<br>
 
-### Minecraft server
+## Tools i use
 
-Ich bin Mitglied auf einem Minecraft Server namens [beyonddark](https://beyonddark.de/). Ich bin dort Plugin Entwickler und auf dem Server gehen einige seltsame Dinge vor sich. ![](images/2021-01-17.png)
+[![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC.svg?logo=visual-studio-code&logoColor=white&longCache=true&style=for-the-badge)](https://code.visualstudio.com)
+[![Git](https://img.shields.io/badge/-Git-181717.svg?logo=git&logoColor=white&longCache=true&style=for-the-badge)](https://git-scm.com/)
 
-### Was mache ich sonst noch?
+<br>
 
-Ich mag die Entwicklung meiner eigenen Betriebssysteme, weil sie einem viel über einen Computer Beibringen können.  
+## Programing languages i know
+
+![Java](https://img.shields.io/badge/-java-007396.svg?logo=java&logoColor=white&longCache=true&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-javascript-f7df1e.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)
+![C/C++](https://img.shields.io/badge/-c/c++-00599c.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)
+![Python](https://img.shields.io/badge/-python-024808.svg?logo=python&logoColor=white&longCache=true&style=for-the-badge)
+
+<br>
+
+## Some information about me
+
+<br>
+
+### What are my interest's?
+
+I love coding my own operating system. It can teach you a lot on how computers work internally.
 
 ![](images/2020-11-25.png)
 
-Hier meine Betriebssysteme:  
+<br>
+
+Operating systems i made or im working on:  
 
 - [NextOS](https://github.com/Glowman554/NextOS)
 - [GOS](https://github.com/Glowman554/gos) / [GKernel](https://github.com/Glowman554/gkernel)
+- [FoxOS](https://github.com/TheUltimateFoxOS/FoxOS)
+
+<br>
+
+### Who am i?
+
+Im janick aka Glowman554 and im 16 years old. Im almost finished with school and i hope i will find a job where i have fun doing it.
+
+<br>
+
+### Social media
+
+- [Discord](https://discordapp.com/users/584344177257480192)
+- [Instagram](https://www.instagram.com/glowman434/)
+
+<br>
 
 ### GitHub stats
 
 Fun fact:  ![](https://komarev.com/ghpvc/?username=Glowman554)
+
+<br>
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowman554&layout=compact" width="333" />
@@ -39,9 +75,3 @@ Fun fact:  ![](https://komarev.com/ghpvc/?username=Glowman554)
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Glowman554&show_icons=true" width="400"/>
 </a>
-
-### Wer bin ich?
-
-Ich bin janick 16 Jahre alt. Ich bin ein kleiner süßer Fuchs. In Minecraft ist mein Username glowman434.
-
-![](images/2021-01-24.png)
