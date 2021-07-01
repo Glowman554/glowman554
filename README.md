@@ -32,8 +32,6 @@
 
 ## Some information about me
 
-<br>
-
 ### What are my interest's?
 
 I love coding my own operating system. It can teach you a lot on how computers work internally.
