@@ -4,7 +4,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-<br>
 
 ## Friends
 
@@ -13,14 +12,12 @@
 [![ImDaBigBoss](https://img.shields.io/badge/-ImDaBigBoss-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/ImDaBigBoss)
 [![FurriousFox](https://img.shields.io/badge/-FurriousFox-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/FurriousFox)
 
-<br>
 
 ## Tools i use
 
 [![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC.svg?logo=visual-studio-code&logoColor=white&longCache=true&style=for-the-badge)](https://code.visualstudio.com)
 [![Git](https://img.shields.io/badge/-Git-181717.svg?logo=git&logoColor=white&longCache=true&style=for-the-badge)](https://git-scm.com/)
 
-<br>
 
 ## Programing languages i know
 
@@ -29,7 +26,6 @@
 ![C/C++](https://img.shields.io/badge/-c/c++-00599c.svg?logo=cplusplus&logoColor=white&longCache=true&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-python-024808.svg?logo=python&logoColor=white&longCache=true&style=for-the-badge)
 
-<br>
 
 ## Some information about me
 
@@ -47,26 +43,22 @@ Operating systems i made or im working on:
 - [GOS](https://github.com/Glowman554/gos) / [GKernel](https://github.com/Glowman554/gkernel)
 - [FoxOS](https://github.com/TheUltimateFoxOS/FoxOS)
 
-<br>
 
 ### Who am i?
 
 Im janick aka Glowman554 and im 16 years old. Im almost finished with school and i hope i will find a job where i have fun doing it.
 
-<br>
 
 ### Social media
 
 - [Discord](https://discordapp.com/users/584344177257480192)
 - [Instagram](https://www.instagram.com/glowman434/)
 
-<br>
 
 ### GitHub stats
 
 Fun fact:  ![](https://komarev.com/ghpvc/?username=Glowman554)
 
-<br>
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowman554&layout=compact" width="333" />
