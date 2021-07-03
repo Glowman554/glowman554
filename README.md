@@ -11,6 +11,7 @@
 [![chaosfreak93](https://img.shields.io/badge/-chaosfreak93-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/chaosfreak93)
 [![d347h-n3k0](https://img.shields.io/badge/-d347h_n3k0-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/d347h-n3k0)
 [![ImDaBigBoss](https://img.shields.io/badge/-ImDaBigBoss-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/ImDaBigBoss)
+[![FurriousFox](https://img.shields.io/badge/-FurriousFox-181717.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/FurriousFox)
 
 <br>
 
