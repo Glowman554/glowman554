@@ -57,7 +57,7 @@ Im janick aka Glowman554 and im 16 years old.
 
 ### GitHub stats
 
-Fun fact:  ![](https://komarev.com/ghpvc/?username=Glowman554)
+Fun fact:  ![](https://komarev.com/ghpvc/?username=Glowman554) ![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/615b113a970bc55994ad008d)
 
 
 <a href="#">
