@@ -42,6 +42,7 @@ Operating systems i made or im working on:
 - [NextOS](https://github.com/Glowman554/NextOS)
 - [GOS](https://github.com/Glowman554/gos) / [GKernel](https://github.com/Glowman554/gkernel)
 - [FoxOS](https://github.com/TheUltimateFoxOS/FoxOS)
+- [MicroOS](https://github.com/Glowman554/MicroOS)
 
 
 ### Who am i?
