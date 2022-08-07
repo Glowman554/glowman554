@@ -33,7 +33,7 @@
 
 I love coding my own operating system. It can teach you a lot on how computers work internally.
 
-![](images/2020-11-25.png)
+![](images/foxos.png)
 
 <br>
 
