@@ -47,7 +47,7 @@ Operating systems i made or im working on:
 
 ### Who am i?
 
-Im janick aka Glowman554 and im 17 years old.
+Im janick aka Glowman554 and im 19 years old.
 
 
 ### Social media
